@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["yourabi@gmail.com"]
   gem.description   = %q{twitter-typeahead-rails packages the typeahead.js jquery plugin for rails}
   gem.summary       = %q{twitter-typeahead-rails packages the typeahead.js jquery plugin for rails}
-  gem.homepage      = "https://github.com/yourabi/twitter-typeahead-rails"
+  gem.homepage      = "https://github.com/walidhalabi/twitter-typeahead-rails"
 
   gem.add_dependency             'railties',   '>= 3.1'
   gem.add_dependency             'actionpack', '>= 3.1'
