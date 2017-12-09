@@ -1,7 +1,7 @@
 module Twitter
   module Typeahead
     module Rails
-      VERSION = "0.11.1-corejavascript"
+      VERSION = "1.2.0"
     end
   end
 end
